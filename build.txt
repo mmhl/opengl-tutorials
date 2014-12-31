@@ -1,0 +1,1 @@
+g++ -o triangles triangles.cpp  -lGLEW -lglut
